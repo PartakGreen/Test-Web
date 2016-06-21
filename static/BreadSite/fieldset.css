@@ -1,0 +1,7 @@
+form#payment fieldset {
+	border: none;
+	margin-bottom: 10px;
+}
+form#payment fieldset:last-of-type {
+	margin-bottom: 0;
+}

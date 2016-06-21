@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'ali';
+  src: url('../font/BBardiya.eot?#') format('eot'),  /* IE6–8 */
+       url('../font/BBardiya.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+       url('../font/BBardiya.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+
+@font-face {
+  font-family: 'ali1';
+  src: url('../font/BElham.eot?#') format('eot'),  /* IE6–8 */
+       url('../font/BElham.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+       url('../font/BElham.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+
+@font-face {
+  font-family: 'ali2';
+  src: url('../font/BNazanin.eot?#') format('eot'),  /* IE6–8 */
+       url('../font/BNazanin.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+       url('../font/BNazanin.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+
+.fonttest{
+	font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace
+}
